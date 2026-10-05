@@ -1,0 +1,5 @@
+Case ID,Country,Age,Sex,Product,Reported Event,Time to Onset,Outcome,Seriousness,Additional Information
+PV-101,IN,34,F,Velunex,Nausea,3 hours,Recovered,Not serious,None reported
+PV-102,IN,61,M,Velunex,Loss of consciousness,2 days,Recovering,Emergency hospital admission,Unknown
+PV-103,GB,27,F,Velunex,Mild rash,4 days,Recovered,Not serious,No rechallenge
+PV-104,IN,,U,Velunex,Appendicitis,3 weeks,Recovered,Hospitalisation,Medical history incomplete
